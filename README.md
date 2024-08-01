@@ -9,3 +9,8 @@ Image with Specific Categories
 
 
 Image with Specific Categories
+
+E-commerce Sales Visualization Tableau, Microsoft Excel
+• Performed Data Visulization and cleaning methods on a sample ecommerce dataset
+• Created a thorough analysis on the given data highlighting customer insights,Quantity of orders by
+week,Quantity by State,Quantity by category helping to improve decision making
